@@ -1,0 +1,2 @@
+SELECT * FROM country
+where country like 'A%a';
