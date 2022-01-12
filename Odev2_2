@@ -1,0 +1,2 @@
+select * from actor
+where first_name in ('Penelope','Nick','Ed');
