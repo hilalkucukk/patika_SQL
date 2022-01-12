@@ -1,0 +1,2 @@
+SELECT count(*) FROM film
+where title like 'T%' and rating = 'G';
